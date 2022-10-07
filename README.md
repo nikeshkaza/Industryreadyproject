@@ -1,2 +1,2 @@
 This is git tutorials by ineuron inteliigence
-Leaning inustry ready project
+Learning inustry ready project
