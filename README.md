@@ -1,2 +1,2 @@
-This is git tutorials by ineuron
+This is git tutorials by ineuron inteliigence
 
